@@ -2,7 +2,7 @@
  *Object Oriented Programming (OOP)
  *Title: Doctor Info Class
 
- *Description: Displays Information of a specific doctor. It displays their Name, 
+ *Description: Stores Information of a specific doctor. It displays their Name, 
  *             Designation, Specialization and on further query, displays information 
  *             like their Office/Chamber Address, Phone number, Visiting Hours, Fee etc. 
  
