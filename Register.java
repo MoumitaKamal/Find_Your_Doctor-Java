@@ -1,6 +1,6 @@
 /***********************************************************
  *Object Oriented Programming (OOP)
- *Title: Appointment Class
+ *Title: Register Class
 
  *Description: Registers a Doctor/Admin to an account.
  
