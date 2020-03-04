@@ -2,7 +2,7 @@
  *Object Oriented Programming (OOP)
  *Title: Hospitals Class
 
- *Description: Displays a list of hospitals according to categories (Specialization, Location, Type, or all/neither).
+ *Description: Stores a list of hospitals according to categories (Specialization, Location, Type, or all/neither).
  
  *Contributor: Moumita Kamal, Rayhan Ahmed (Fall 2015)
  ***********************************************************/
