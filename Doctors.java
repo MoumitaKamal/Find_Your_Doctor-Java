@@ -2,7 +2,7 @@
  *Object Oriented Programming (OOP)
  *Title: Doctors Class
 
- *Description: Displays doctors list according to categories (Specialization, Designation or both).
+ *Description: Stores doctors list according to categories (Specialization, Designation or both).
  
  *Contributor: Moumita Kamal, Rayhan Ahmed (Fall 2015)
  ***********************************************************/
